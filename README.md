@@ -16,8 +16,8 @@ Hi there, i am ilker.<br><br>🔭 I’m currently working on MimCode<br><br>🌱
 ![](https://github-profile-trophy.vercel.app/?username=ilkerteymur&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️  Quote from Matrix
-neo: always look at it encoded?
-cyper: you have to. the image translators work for the construct program
+Neo: always look at it encoded? <br>
+Cyper: you have to. the image translators work for the construct program
 but there's way too much information to decode the matrix.
 you get used to it. i dont even see the code. all i see is blonde, brunette, readhead... 
 
