@@ -15,11 +15,13 @@ Hi there, i am ilker.<br><br>🔭 I’m currently working on MimCode<br><br>🌱
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ilkerteymur&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️  Quote from Matrix
+neo: always look at it encoded?
+cyper: you have to. the image translators work for the construct program
+but there's way too much information to decode the matrix.
+you get used to it. i dont even see the code. all i see is blonde, brunette, readhead... 
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+By Cyper from Matrix.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ilkerteymur&icon=0&color=0)](https://visitcount.itsvg.in)
