@@ -14,6 +14,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ilkerteymur&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
+<details>
+<summary>:bulb: Most Used Languages</summary>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ilkerteymur&layout=compact'>
+</details>
+
 ### ✍️  Quote from Matrix
 Neo: always look at it encoded? <br>
 Cyper: you have to. the image translators work for the construct program
