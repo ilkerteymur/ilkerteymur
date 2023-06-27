@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murators53&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="ilkerteymur" /> </p>
+
 
 💫 Hi there, i am ilker.<br><br>🔭 I’m currently working on MimCode<br><br>🌱 I’m currently learning HTML , CSS, JS , React and React Native...<br><br>🧳 I work as a React Front End Developer developer and keep learning new frameworks. And I follow the latest technologies.<br><br>👨‍💻 Problem solving, which is the solution point of problems in order to improve myself, excites me. I like to produce analytical solutions.<br><br>⚡ I am highly motivated, organized, and able to work well both independently and as part of a team.<br><br>📫 Reach me out: ilkerteymuroglu@gmail.com
 
@@ -23,6 +23,6 @@ you get used to it. i dont even see the code. all i see is blonde, brunette, rea
 By Cyper from Matrix.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ilkerteymur&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilkerteymur&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="ilkerteymur" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
