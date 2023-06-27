@@ -23,6 +23,6 @@ you get used to it. i dont even see the code. all i see is blonde, brunette, rea
 By Cyper from Matrix.
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilkerteymur&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="ilkerteymur" /> </p>
+[![](https://visitcount.itsvg.in/api?id=ilkerteymur&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
