@@ -8,7 +8,7 @@
 <p align="left">
  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilkerteymuroglu@gmail.com)](mailto:ilkerteymuroglu@gmail.com)
-</p>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/teymurilker) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilkerteymuroglu/)  
 
 # 💻 Tech Stack:
