@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ilker</h1>
+<h1 align="center">Hi 👋, I'm Ilker</h1>
 
 <br><br>🔭 I’m currently working on MimCode<br><br>🌱 I’m currently learning HTML , CSS, JS , React and React Native...<br><br>🧳 I work as a React Front End Developer developer and keep learning new frameworks. And I follow the latest technologies.<br><br>👨‍💻 Problem solving, which is the solution point of problems in order to improve myself, excites me. I like to produce analytical solutions.<br><br>⚡ I am highly motivated, organized, and able to work well both independently and as part of a team.<br><br>📫 Reach me out: ilkerteymuroglu@gmail.com
 
