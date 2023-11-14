@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Ilker..+!;+I'm+React-Native+Developer.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Ilker..+;+I'm+React-Native+Developer.;" />
 </h1>
 
 <br><br>🔭 I’m currently working on MimCode<br><br>🌱 I’m currently learning HTML , CSS, JS , React and React Native...<br><br>🧳 I work as a React Front End Developer developer and keep learning new frameworks. And I follow the latest technologies.<br><br>👨‍💻 Problem solving, which is the solution point of problems in order to improve myself, excites me. I like to produce analytical solutions.<br><br>⚡ I am highly motivated, organized, and able to work well both independently and as part of a team.<br><br>📫 Reach me out: ilkerteymuroglu@gmail.com
